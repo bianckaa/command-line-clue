@@ -1,0 +1,16 @@
+# Detective's Notebook
+
+## Suspects
+- [ ] The Teacher
+- [ ] The Blacksmith
+- [ ] The Jocker
+
+## Weapons
+- [ ] Walking Stick
+- [ ] Glass Bottle
+- [ ] Garden Shears
+
+## Notes
+*Use this space to record your findings and deductions...*
+
+Location of the crime is still unknown - the room must have been empty when it happened...
