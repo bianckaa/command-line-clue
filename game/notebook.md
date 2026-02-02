@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Walking Stick
-- [ ] Heavy Book
+- [X] Heavy Book
 - [X] Steel Ruler
 
 ## Notes
@@ -18,3 +18,6 @@ A note from The Mayor mentions witnessing something concerning near the cellar.
 Check the classrooms in the school.
 Check the storage in the shops.
 Go to the aisles in the shops.
+Go back and check the greenhouse in the Residential Area.
+
+The scene crime is the greenhouse in the Residential Area.
