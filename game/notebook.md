@@ -23,4 +23,6 @@ Check the storage in the shops.
 The crime scene is the storage in the shops.
 All rooms in the town hall were searched, and no further clues about 
 the suspect or weapon were found.
+All rooms in the park were searched, and no further clues.
+
 
