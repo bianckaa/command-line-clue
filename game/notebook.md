@@ -1,28 +1,17 @@
-# Detective's Notebook
+0# Detective's Notebook
 
 ## Suspects
-
-- [ ] The Teacher
-- [ ] The Blacksmith
-- [ ] The Jocker
+- [ ] The Shopkeeper
+- [ ] The Mayor
+- [ ] The Doctor
 
 ## Weapons
 - [ ] Walking Stick
-- [ ] Glass Bottle
-- [X] Garden Shears
+- [ ] Heavy Book
+- [ ] Steel Ruler
 
 ## Notes
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
-The Mayor left an anonymous tip about unusual activity at the park.
-You notice fresh footprints leading towards the pond.
-Go to the kitchen in the shops.
-New information suggests returning to the town hall.
-Check the storage in the shops.
-The crime scene is the storage in the shops.
-All rooms in the town hall were searched, and no further clues about 
-the suspect or weapon were found.
-All rooms in the park were searched, and no further clues.
-
-
+A note from The Mayor mentions witnessing something concerning near the cellar.

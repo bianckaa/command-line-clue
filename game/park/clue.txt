@@ -1,5 +1,0 @@
-Investigation Update:
-
-You notice fresh footprints leading towards the pond.
-
-Remember: Use 'cd "pond"' to follow this lead.
