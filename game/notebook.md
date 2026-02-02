@@ -17,3 +17,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 The Mayor left an anonymous tip about unusual activity at the park.
 You notice fresh footprints leading towards the pond.
+Go to the kitchen in the shops.
