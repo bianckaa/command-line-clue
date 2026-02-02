@@ -1,7 +1,7 @@
 0# Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
+- [X] The Shopkeeper
 - [ ] The Mayor
 - [ ] The Doctor
 
@@ -15,3 +15,4 @@
 
 Location of the crime is still unknown - the room must have been empty when it happened...
 A note from The Mayor mentions witnessing something concerning near the cellar.
+Check the classrooms in the school.
