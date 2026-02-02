@@ -20,3 +20,5 @@ You notice fresh footprints leading towards the pond.
 Go to the kitchen in the shops.
 New information suggests returning to the town hall.
 Check the storage in the shops.
+The crime scene is the storage in the shops.
+
